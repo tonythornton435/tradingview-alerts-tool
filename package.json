@@ -1,12 +1,5 @@
 {
-  "name": "@alleyway/add-tradingview-alerts-tool",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:alleyway/add-tradingview-alerts-tool.git"
-  },
-  "bugs": {
-    "url": "https://github.com/alleyway/add-tradingview-alerts-tool/issues"
-  },
+  "name": "add-tradingview-alerts-tool",
   "description": "Add TradingView Alerts in bulk",
   "type": "module",
   "main": "./dist/index.js",
